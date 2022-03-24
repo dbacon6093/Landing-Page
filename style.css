@@ -23,11 +23,44 @@ ul {
     list-style: none;
     display: flex;
     align-items: center;
-    flex
 }
 a {
     text-decoration: none;
     color: #f9faf8;
     padding: 5px;
     margin: 20px;
+    font-size: 18px;
+}
+.section-one {
+    background-color: #1F2937;
+    margin-top: 75px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.one-left {
+    width: 400px;
+    height: 300px;
+    margin-top: 100px;
+}
+.section-one-img {
+    width: 400px;
+    height: auto;
+    margin-top: 100px;
+}
+.top-button {
+    background-color: #3882f6;
+    border: none;
+    color: #f9faf8;
+    padding: 10px;
+    border-radius: 2px;
 }
